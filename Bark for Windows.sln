@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bark for Windows", "Bark for Windows\Bark for Windows.csproj", "{AB733FD4-191C-458C-82D4-8A9B3634B3D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB733FD4-191C-458C-82D4-8A9B3634B3D0}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{AB733FD4-191C-458C-82D4-8A9B3634B3D0}.Debug|Any CPU.Build.0 = Debug|x64
+		{AB733FD4-191C-458C-82D4-8A9B3634B3D0}.Debug|x64.ActiveCfg = Debug|x64
+		{AB733FD4-191C-458C-82D4-8A9B3634B3D0}.Debug|x64.Build.0 = Debug|x64
+		{AB733FD4-191C-458C-82D4-8A9B3634B3D0}.Release|Any CPU.ActiveCfg = Release|x64
+		{AB733FD4-191C-458C-82D4-8A9B3634B3D0}.Release|x64.ActiveCfg = Release|x64
+		{AB733FD4-191C-458C-82D4-8A9B3634B3D0}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADA95092-BD53-4296-8748-CF68AA90E63A}
+	EndGlobalSection
+EndGlobal
